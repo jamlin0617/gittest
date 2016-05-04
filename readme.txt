@@ -1,3 +1,2 @@
 qqqqqq
-wwwwww
 rrrrrr
